@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uoghefauch.gen1us2k.com/sitemap.xml
